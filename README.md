@@ -61,7 +61,7 @@ if (special_tiles_limit_reached)
 That way, you won't get more `specialTiles` from the `Generator`. The weigths of the other tiles will be properly rebalanced, so you don't have to worry about anything!
 
 
-P.S: *Be extra careful when using not built-in objects as a `Generator` type. You may want to override the `Equals()` and `GetHashCode()` methods on your object, which are necessary for objects comparison. More info on the **FAQ***.
+P.S: *Be extra careful when using not built-in objects as a `Generator` type. You may want to override the `Equals()` and `GetHashCode()` methods on your object, which are handy for objects comparison. More info on the **FAQ***.
 
 ##### Counting Elements
 As a further improvement, you think it's a good idea to add random tiles to the `Generator` each time you run the algorithm (*Randominception?*). So, you decide to add 5 different random tiles each time. 
