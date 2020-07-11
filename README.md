@@ -3,7 +3,7 @@
 
 ## What is really Randomify?
 ### The Magic Box
-This plugin works like a *magic box*. Imagine you have three balls: one is red, another is green, and the last one is blue. Then, you add each ball to the box in this way: you take the red one and say: *"Its probability is 20%!"*, and throw the ball to the box (please, slowly, try not to break the magic box!). Then, you take the green one and say: *"Its probability is 30%!"*. And repeating with the blue one: *"Its probability is 50%!"*. 
+This plugin works like a *magic box*. Imagine you have three balls: one is red, another is green, and the last one is blue. Then, you add each ball to the box in this way: you take the red one and say: *"Its probability is 20%!"*, and throw the ball inside the box (please, slowly, try not to break the magic box!). Then, you take the green one and say: *"Its probability is 30%!"*. And repeating with the blue one: *"Its probability is 50%!"*. 
 
 Some days later, you want to retrieve one of the balls. You say to the box: *"Please, give me back one of the balls"*. Then, the box throws at you one of them. But, which one of them? Well, it's a random decision. But a weighted random decision! As you decided when adding the balls to the box, there is a 50% probability that the box returns the blue one, a 30% for the green one and a 20% for the red one.
 
