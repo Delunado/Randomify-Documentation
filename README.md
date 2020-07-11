@@ -86,7 +86,7 @@ You can use **Randomify** for any project where you need weighted randomization.
 - Randomizing enemies spawn points, making some points more **difficult** than others. 
 - Randomizing **rewards & upgrades** on replayable/arcade games.
 - Implementing **AI** algorithms which need randomized weights.
-- Implementing all kinds of **procedural** algorithms, from world generation to rewards, enemies, structures, large etc.
+- Implementing all kinds of **procedural** algorithms, from world generation to rewards, enemies, structures, and a large etc.
 - Random **stats assignment** on character/enemy creations.
 - And much **more**. It's just a very flexible tool!
 
