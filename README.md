@@ -103,7 +103,7 @@ You can use **Randomify** for any project where you need weighted randomization.
 - #### **My objects are not being properly removed from the `Generator`!**
 	- Ouch! You probably need to override the `Equal()` method on the objects you are using as elements. Also, be sure you are passing the **correct** object to the `Generator`. More info [here](https://docs.microsoft.com/es-es/dotnet/api/system.object.equals?view=netcore-3.1). 
 - #### I want to improve the performance of Randomify!
-	- Well, the best way to achieve this is overriding the [method](https://docs.microsoft.com/es-es/dotnet/api/system.object.equals?view=netcore-3.1) `Equal()` on your objects. Also, if you are using value types (like `structs`) as elements, you can implement the [IEquatable<>](https://docs.microsoft.com/es-es/dotnet/api/system.iequatable-1?view=netcore-3.1) interface. Gotta go fast!
+	- Well, the best way to achieve this is overriding the [method](https://docs.microsoft.com/es-es/dotnet/api/system.object.equals?view=netcore-3.1) `Equal()` on your objects. Also, if you are using value types (like `structs`) as elements, you can implement the [IEquatable<>](https://docs.microsoft.com/es-es/dotnet/api/system.iequatable-1?view=netcore-3.1) interface. That implementation can avoid unnecessary allocs. Gotta go fast!
 	
 - #### **What happens if I find a bug/error or I don't know how to use some plugin functionality?**
 	- In first place, I'm sorry! If that's the case, contact me on the places indicated below. I'll solve your problem as soon as possible, and also update the plugin with fixed bugs or update the documentation with clarified information.
