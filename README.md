@@ -101,7 +101,7 @@ You can use **Randomify** for any project where you need weighted randomization.
 	- No trouble! If you add an existing element with the same probability, nothing happens. If you add an existing element with a new probability, the element's probability will be updated on the `Generator`.
 
 - #### **My objects are not being properly removed from the `Generator`!**
-	- Ouch! You probably need to override the `Equal()` method on the objects you are using as elements. Also, be sure you are passing the **correct** object to the `Generator`. More info [here](https://docs.microsoft.com/es-es/dotnet/api/system.object.equals?view=netcore-3.1). 
+	- Ouch! You probably need to override the `Equals()` method on the objects you are using as elements. Also, be sure you are passing the **correct** object to the `Generator`. More info [here](https://docs.microsoft.com/es-es/dotnet/api/system.object.equals?view=netcore-3.1). 
 - #### I want to improve the performance of Randomify!
 	- Well, the best way to achieve this is overriding the [method](https://docs.microsoft.com/es-es/dotnet/api/system.object.equals?view=netcore-3.1) `Equal()` on your objects. Also, if you are using value types (like `structs`) as elements, you can implement the [IEquatable<>](https://docs.microsoft.com/es-es/dotnet/api/system.iequatable-1?view=netcore-3.1) interface. That implementation can avoid unnecessary allocs. Gotta go fast!
 	
