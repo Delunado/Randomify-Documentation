@@ -2,6 +2,13 @@
 ﻿
 **Randomify** is a *blazingly fast* and *easy-to-use* weighted randomizer for C#. It has been developed to be used on Unity projects, but it can be used in any C# project.
 
+## Index
+- [What does Randomify do?](#What does Randomify do?)
+- [Quick Start](#Quick Start)
+- Use Cases
+- FAQ
+- Credits
+
 ## What does Randomify do?
 ### The Magic Box
 Let's start with a little metaphor. This plugin works like a *magic box*. Imagine you have three balls: one is red, another is green, and the last one is blue. Then, you add each ball to the box in this way: you take the red one and say: *"Its probability is 20%!"*, and throw the ball inside the box (please, slowly, try not to break the magic box!). Then, you take the green one and say: *"Its probability is 30%!"*. And repeating with the blue one: *"Its probability is 50%!"*. 
