@@ -3,11 +3,11 @@
 **Randomify** is a *blazingly fast* and *easy-to-use* weighted randomizer for C#. It has been developed to be used on Unity projects, but it can be used in any C# project.
 
 ## Index
-- [What does Randomify do?](#what-does-randomify-do?)
+- [What does Randomify do?](#what-does-randomify-do)
 - [Quick Start](#quick-start)
-- Use Cases
-- FAQ
-- Credits
+- [Use Cases](#use-cases)
+- [FAQ](#faq)
+- [Credits](#credits)
 
 ## What does Randomify do?
 ### The Magic Box
