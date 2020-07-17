@@ -118,8 +118,8 @@ You can use **Randomify** for any project where you need weighted randomization.
 
 ## Credits
 
-- Plugin made by [Delunado](https://www.twitter.com/Delunad0)
+- Plugin made by [Delunado](https://www.twitter.com/Devlunado)
 - Promotional images made by [Agustin Macsemchuk](https://www.behance.net/agmac/)
 - Thanks to [Alexander](https://windfishstudio.com/landing) for correcting the documentation!
 
-#### If you have any questions, problems or suggestions, contact me on on [Telegram](t.me/Delunado), on [Twitter](https://www.twitter.com/Delunad0),  or via e-mail to devlunado@gmail.com. Cheers! 
+#### If you have any questions, problems or suggestions, contact me on on [Telegram](t.me/Delunado), on [Twitter](https://www.twitter.com/Devlunado), or via e-mail to devlunado@gmail.com. Cheers! 
