@@ -1,6 +1,6 @@
 # Randomify - Fast & Easy Weighted Randomizer
 ﻿
-![RandomifyCover](https://github.com/Delunado/Randomify-Documentation/images/SocialMedia.jpg)
+![RandomifyCover](https://github.com/Delunado/Randomify-Documentation/blob/master/images/SocialMedia.jpg)
  
 **Randomify** is a *blazingly fast* and *easy-to-use* weighted randomizer for C#. It has been developed to be used on Unity projects, but it can be used in any C# project.
 
